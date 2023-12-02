@@ -7,10 +7,10 @@ $ Currently learning about Neural Networks <br />
 
 -----
 <a href="https://github.com/yaoyanglee/github-readme-stats">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=yaoyanglee&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaoyanglee&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/yaoyanglee">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=5&theme=dark#gh-dark-mode-only&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=5&theme=dark#gh-dark-mode-only&card_width=320" />
 </a>
 
 <!--
