@@ -10,7 +10,7 @@ $ Currently learning about Neural Networks <br />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaoyanglee" />
 </a>
 <a href="https://github.com/yaoyanglee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=8&card_width=420" />
 </a>
 <!--
 **yaoyanglee/yaoyanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
