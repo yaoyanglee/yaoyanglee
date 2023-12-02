@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+$ I'm a Computer Science Student at Nanyang Technological University (NTU)
+$ I'm a triathlete
+$ Enjoy anything related to ML and Cloud Computing
+$ Currently learning about Neural Networks
+
 <!--
 **yaoyanglee/yaoyanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
