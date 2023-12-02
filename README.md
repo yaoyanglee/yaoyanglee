@@ -5,6 +5,8 @@ $ I'm a triathlete <br />
 $ Enjoy anything related to ML and Cloud Computing <br />
 $ Currently learning about Neural Networks <br />
 
+-----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoyanglee)](https://github.com/yaoyanglee/github-readme-stats)
 <!--
 **yaoyanglee/yaoyanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
