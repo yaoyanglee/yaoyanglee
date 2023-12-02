@@ -7,11 +7,12 @@ $ Currently learning about Neural Networks <br />
 
 -----
 <a href="https://github.com/yaoyanglee/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=yaoyanglee" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=yaoyanglee&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/yaoyanglee">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=8&card_width=320" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaoyanglee&layout=donut&langs_count=5&theme=dark#gh-dark-mode-only&card_width=320" />
 </a>
+
 <!--
 **yaoyanglee/yaoyanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyanglee&layout=donut)](https://github.com/yaoyanglee/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoyanglee)](https://github.com/yaoyanglee/github-readme-stats)
 -->
