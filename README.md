@@ -1,4 +1,4 @@
-## Hi there, I'm Yao Yang 👋
+# Hi there, I'm Yao Yang 👋
 
 $ I'm a Computer Science Student at Nanyang Technological University (NTU) <br />
 $ I'm a triathlete <br />
