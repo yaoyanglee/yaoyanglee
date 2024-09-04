@@ -1,9 +1,9 @@
 # Hi there, I'm Yao Yang 👋
 
-$ I'm a 2nd Year Computer Science Student at Nanyang Technological University (NTU) <br />
-$ I'm an aspiring triathlete <br />
-$ Enjoy anything related to ML and Cloud Computing <br />
-$ Currently learning about Neural Networks <br />
+$ I'm a 3rd Year Computer Science Student at Nanyang Technological University (NTU) <br />
+$ I'm a part-time triathlete full-time student <br />
+$ Enjoy anything related to ML <br />
+$ Currently learning about graph based deep learning <br />
 
 -----
 ### 🤝 Here's what I've worked with
