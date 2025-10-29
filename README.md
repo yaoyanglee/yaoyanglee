@@ -1,9 +1,9 @@
 # Hi there, I'm Yao Yang 👋
 
-$ I'm a 3rd Year Computer Science Student at Nanyang Technological University (NTU) <br />
+$ I'm a 4th Year Computer Science Student at Nanyang Technological University (NTU) <br />
 $ I'm a part-time triathlete full-time student <br />
 $ Enjoy anything related to ML <br />
-$ Currently learning about graph based deep learning <br />
+$ Currently doing research on Optimizing Vision Language Models <br />
 
 -----
 ### 🤝 Here's what I've worked with
